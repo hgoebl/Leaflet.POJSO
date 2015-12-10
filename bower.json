@@ -1,0 +1,32 @@
+{
+  "name": "Leaflet.POJSO",
+  "description": "Leaflet's headless classes and logic",
+  "main": "leaflet-pojso.js",
+  "authors": [
+    "Heinrich Göbl <hgoebl@goebl.com> (http://goebl.com/)",
+    "Vladimir Agafonkin (http://agafonkin.com/en/)"
+  ],
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "leaflet",
+    "headless",
+    "logic",
+    "distance",
+    "geo",
+    "coordinates"
+  ],
+  "homepage": "https://github.com/hgoebl/Leaflet.POJSO",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "Gruntfile.js",
+    "*.iml",
+    "src"
+  ]
+}
