@@ -19,6 +19,10 @@
     "coordinates"
   ],
   "author": "Heinrich Göbl <hgoebl@goebl.com> (http://goebl.com/)",
+  "contributors": [
+    "Heinrich Göbl <hgoebl@goebl.com> (http://goebl.com/)",
+    "Vladimir Agafonkin (http://agafonkin.com/en/)"
+  ],
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/hgoebl/Leaflet.POJSO/issues"
@@ -26,6 +30,7 @@
   "browserify-shim": {
     "Leaflet.POJSO": "global:L"
   },
+  "dependencies": {},
   "devDependencies": {
     "leaflet": "~0.7.2",
     "grunt": "~0.4.4",
